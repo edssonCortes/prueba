@@ -1,3 +1,5 @@
 intento commit remoto wtf
 
 -segundo commit a ver si funciona normi.
+okay...
+para comit en sgundaRama
